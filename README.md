@@ -1,16 +1,19 @@
-### Hi there 👋
+## Brief Introduction
 
-<!--
-**benben-miao/benben-miao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD student at Xiamen University**
 
-Here are some ideas to get you started:
+**BenthicLab:** https://github.com/benthicLab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ResearchGate:** https://www.researchgate.net/profile/Benben-Miao
+
+#### Bioinformatics, Machine Learning, Full Stack Developer
+
+**HiPlot:** https://github.com/hiplot/ | https://hiplot.org
+
+**BioSciTools:** https://github.com/bioscitools/ | https://bioscitools.podia.com
+
+**Python Packages:** https://github.com/benben-miao/NCBI-Parser
+
+**Machine Learning:** https://github.com/benben-miao/Captcha-Recognition
+
+**Awosome-bioinformatics:** https://github.com/openbiox/awosome-bioinformatics
