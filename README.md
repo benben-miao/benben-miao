@@ -10,7 +10,9 @@
 
 **HiPlot:** https://github.com/hiplot/ | https://hiplot.org
 
-**BioSciTools:** https://github.com/bioscitools/ | https://bioscitools.podia.com
+**OmicsSuite:** https://github.com/omicssuite/
+
+**TOmicsVis:** https://benben-miao/TOmicsVis/
 
 **Python Packages:** https://github.com/benben-miao/NCBI-Parser
 
