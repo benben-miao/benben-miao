@@ -12,7 +12,7 @@
 
 **OmicsSuite:** https://github.com/omicssuite/
 
-**TOmicsVis:** https://benben-miao/TOmicsVis/
+**TOmicsVis:** https://github.com/benben-miao/TOmicsVis/
 
 **Python Packages:** https://github.com/benben-miao/NCBI-Parser
 
